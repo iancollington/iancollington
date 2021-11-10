@@ -1,4 +1,4 @@
-### I am Ian Collington. A contract full-stack Java developer with twenty years experience.
+### I am Ian Collington. A contract Java developer with twenty years experience.
 
 You'll find some random repositories here, some of which support my blog posts but I also have two other organisations for two projects; [bootifulmicropizza](https://github.com/bootifulmicropizza) and [serverlesspizza](https://github.com/serverlesspizza).
 
